@@ -1,0 +1,15 @@
+#include "main.h'
+/**
+ * main - test fuunction that prints if interger is positiveor negative
+ * Return: 0
+ */
+
+int main(void)
+
+{
+	int i;
+	i-98;
+	positive_or_negative(i);
+	return (0);
+}
+
