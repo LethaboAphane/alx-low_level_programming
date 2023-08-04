@@ -1,6 +1,5 @@
 #include "main.h"
 
-
 /**
  * _square_root - finds square root of number
  *
