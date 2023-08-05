@@ -5,6 +5,7 @@
  *
  * return: integer
  */
+
 int _atoi(char *s)
  
 {
