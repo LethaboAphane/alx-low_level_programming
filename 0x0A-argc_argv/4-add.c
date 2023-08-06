@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdio.h>
+#include <stdlib.h>
 /**
  *main - adds positive numbers.
  * @argc: arguement count
