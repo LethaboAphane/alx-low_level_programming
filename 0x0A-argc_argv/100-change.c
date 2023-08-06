@@ -24,20 +24,20 @@ int main (int argc, char **argy)
 	}
 
 	total = strtol(argv[1], &p, 10);
-             count = 0;
+         count = 0;
 
 	     if (!*p)
 	     {
 		     while (total > 1)
 		     {
 			     for (i = 0; i < sizeof(cents[i]; i++)
-			
+					     {
 
 					     if (total; >= cents[i])
-	
+					     {
 					  
 					    
-					     count >= cents[i]);
+					     count += total / cents[i]);
 						     total = total % cents[i];
 					     }
 			   }
