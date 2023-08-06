@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 /**
  *main - adds positive numbers.
  * @argc: arguement count
@@ -38,7 +39,3 @@ for (i = 1; argv[i]; i++)
               return (0);
 }
 
-
-
-~                                                                                                                                                                                                                  
-~                           
