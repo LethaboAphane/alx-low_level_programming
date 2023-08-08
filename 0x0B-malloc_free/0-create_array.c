@@ -10,7 +10,7 @@
  *
  * Return: NULL if size = 0, NULL if it fails
  * pointer to the array
- */
+*/
 
 char *create_array(unsigned int size, char c)
 
